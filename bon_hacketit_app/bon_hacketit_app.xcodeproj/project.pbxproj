@@ -18,6 +18,8 @@
 		D9D49D5D29E200C400261A54 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D5C29E200C400261A54 /* LoginView.swift */; };
 		D9D49D5F29E200D800261A54 /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D5E29E200D800261A54 /* SignupView.swift */; };
 		D9D49D6129E200E400261A54 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D6029E200E400261A54 /* FeedView.swift */; };
+		D9D49D6429E2044D00261A54 /* Fooddescp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D6329E2044D00261A54 /* Fooddescp.swift */; };
+		D9D49D6629E208E400261A54 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D6529E208E400261A54 /* Tab.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +54,8 @@
 		D9D49D5C29E200C400261A54 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		D9D49D5E29E200D800261A54 /* SignupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupView.swift; sourceTree = "<group>"; };
 		D9D49D6029E200E400261A54 /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
+		D9D49D6329E2044D00261A54 /* Fooddescp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fooddescp.swift; sourceTree = "<group>"; };
+		D9D49D6529E208E400261A54 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,7 @@
 		D9D49D2F29E1FF7800261A54 /* bon_hacketit_app */ = {
 			isa = PBXGroup;
 			children = (
+				D9D49D6229E2040400261A54 /* Model */,
 				D9D49D3029E1FF7800261A54 /* bon_hacketit_appApp.swift */,
 				D9D49D3229E1FF7800261A54 /* ContentView.swift */,
 				D9D49D5A29E200A300261A54 /* SplashScreen.swift */,
@@ -137,6 +142,15 @@
 				D9D49D4D29E1FF7900261A54 /* bon_hacketit_appUITestsLaunchTests.swift */,
 			);
 			path = bon_hacketit_appUITests;
+			sourceTree = "<group>";
+		};
+		D9D49D6229E2040400261A54 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D9D49D6329E2044D00261A54 /* Fooddescp.swift */,
+				D9D49D6529E208E400261A54 /* Tab.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -270,7 +284,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9D49D5B29E200A300261A54 /* SplashScreen.swift in Sources */,
+				D9D49D6429E2044D00261A54 /* Fooddescp.swift in Sources */,
 				D9D49D3329E1FF7800261A54 /* ContentView.swift in Sources */,
+				D9D49D6629E208E400261A54 /* Tab.swift in Sources */,
 				D9D49D5D29E200C400261A54 /* LoginView.swift in Sources */,
 				D9D49D3129E1FF7800261A54 /* bon_hacketit_appApp.swift in Sources */,
 				D9D49D6129E200E400261A54 /* FeedView.swift in Sources */,
