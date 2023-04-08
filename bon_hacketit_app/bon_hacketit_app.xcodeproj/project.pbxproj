@@ -14,6 +14,10 @@
 		D9D49D4229E1FF7900261A54 /* bon_hacketit_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D4129E1FF7900261A54 /* bon_hacketit_appTests.swift */; };
 		D9D49D4C29E1FF7900261A54 /* bon_hacketit_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D4B29E1FF7900261A54 /* bon_hacketit_appUITests.swift */; };
 		D9D49D4E29E1FF7900261A54 /* bon_hacketit_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D4D29E1FF7900261A54 /* bon_hacketit_appUITestsLaunchTests.swift */; };
+		D9D49D5B29E200A300261A54 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D5A29E200A300261A54 /* SplashScreen.swift */; };
+		D9D49D5D29E200C400261A54 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D5C29E200C400261A54 /* LoginView.swift */; };
+		D9D49D5F29E200D800261A54 /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D5E29E200D800261A54 /* SignupView.swift */; };
+		D9D49D6129E200E400261A54 /* FeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D49D6029E200E400261A54 /* FeedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +48,10 @@
 		D9D49D4729E1FF7900261A54 /* bon_hacketit_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bon_hacketit_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9D49D4B29E1FF7900261A54 /* bon_hacketit_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bon_hacketit_appUITests.swift; sourceTree = "<group>"; };
 		D9D49D4D29E1FF7900261A54 /* bon_hacketit_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bon_hacketit_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D9D49D5A29E200A300261A54 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		D9D49D5C29E200C400261A54 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		D9D49D5E29E200D800261A54 /* SignupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupView.swift; sourceTree = "<group>"; };
+		D9D49D6029E200E400261A54 /* FeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +104,10 @@
 			children = (
 				D9D49D3029E1FF7800261A54 /* bon_hacketit_appApp.swift */,
 				D9D49D3229E1FF7800261A54 /* ContentView.swift */,
+				D9D49D5A29E200A300261A54 /* SplashScreen.swift */,
+				D9D49D5C29E200C400261A54 /* LoginView.swift */,
+				D9D49D5E29E200D800261A54 /* SignupView.swift */,
+				D9D49D6029E200E400261A54 /* FeedView.swift */,
 				D9D49D3429E1FF7900261A54 /* Assets.xcassets */,
 				D9D49D3629E1FF7900261A54 /* Preview Content */,
 			);
@@ -257,8 +269,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9D49D5B29E200A300261A54 /* SplashScreen.swift in Sources */,
 				D9D49D3329E1FF7800261A54 /* ContentView.swift in Sources */,
+				D9D49D5D29E200C400261A54 /* LoginView.swift in Sources */,
 				D9D49D3129E1FF7800261A54 /* bon_hacketit_appApp.swift in Sources */,
+				D9D49D6129E200E400261A54 /* FeedView.swift in Sources */,
+				D9D49D5F29E200D800261A54 /* SignupView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
