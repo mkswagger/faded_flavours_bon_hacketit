@@ -54,11 +54,8 @@ Overall, the Faded Flavours has a wide range of possible automations and future 
 
 
 
-## Served piping hot by Team Bhelpuri Bosses for Bon Hacketit - API Week MLH 🥘
+## Served piping hot for Bon Hacketit - API Week MLH 🥘 by
 
-This platform was created by  as a project for [School/Company/Personal]. 
-
-## Contributors
 
 [Shinjan Patra](https://github.com/flaminshinjan) <br>Role: App Developer
 
