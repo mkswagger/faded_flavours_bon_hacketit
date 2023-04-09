@@ -1,4 +1,4 @@
-# Faded Flavours
+# Faded Flavours 
 
 ## Problem Statement
 
@@ -6,7 +6,7 @@ In today's fast-paced world, traditional and authentic recipes are getting lost,
 
 ## Solution
 
-The Lost Recipes Repository is a platform designed to store and share traditional recipes from around the world. The platform is user-friendly and provides an easy way for users to access lost recipes. Users can search for recipes based on various criteria, such as country, ingredients, or type of cuisine. The platform allows users to contribute their own recipes, ensuring that the repository is always growing.
+The Lost Recipes Repository is a platform designed to store and share traditional recipes from around the world. The platform is user-friendly and provides an easy way for users to access lost recipes. Users can search for recipes based on various criteria, such as country, ingredients, or type of cuisine. The platform allows users to contribute their own recipes, ensuring that the repository is always growing. For now, we initially built this platform oriented towards Indian cuisine but we aim to expand it to other cuisines as well.
 
 ## Features
 
@@ -38,24 +38,27 @@ Users can add their own recipes to the repository, which can be accessed by othe
 In terms of scalability, the platform is designed to handle a large number of users and recipes. The use of MongoDB ensures that the platform can handle a large amount of data, and the implementation of caching ensures fast access to frequently accessed recipes. Additionally, the use of Vite and React allows for easy scaling of the frontend as needed.
 
 
+# Future Scope and Possible Automations
 
+In the future, we plan to expand the Lost Recipes Repository to include traditional recipes from other cultures and cuisines. This will involve adding support for new languages and ingredients, as well as creating new machine learning models to handle the additional data. We also plan to incorporate more advanced search and filtering features, such as the ability to filter recipes based on dietary restrictions or cooking techniques.
+
+Another possible automation is to use natural language processing techniques to extract recipe information from text-based sources such as blogs and social media. This will allow us to automatically add new recipes to the platform without manual data entry.
 
 
 ## Scalability
 
-The Lost Recipes Repository is designed to be scalable, allowing it to handle a large number of users and recipes. The platform uses MongoDB, which is a scalable NoSQL database that can handle large amounts of data. The platform also uses a cloud hosting service, such as AWS or Google Cloud, to ensure that it can handle a large number of requests.
+The Lost Recipes Repository is designed to be scalable, allowing it to handle a large number of users and recipes. The platform uses MongoDB, which is a scalable NoSQL database that can handle large amounts of data. The platform can be used with  a cloud hosting service, such as AWS or Google Cloud, to ensure that it can handle a large number of requests.
+In terms of database management, we plan to explore the use of MongoDB Atlas, a cloud-based service that provides automatic scaling and backup of MongoDB databases. This will allow us to easily manage and scale the database as the platform grows.
 
-## Contributing
+Overall, the Faded Flavours has a wide range of possible automations and future enhancements. We are excited to continue working on this project and to bring traditional and authentic recipes from around the world to a wider audience.
 
-We welcome contributions from anyone who is interested in preserving traditional recipes. To contribute, please fork the repository and submit a pull request with your changes.
+
 
 ## Credits
 
-This platform was created by [Your Name] as a project for [School/Company/Personal]. We would like to thank the following resources for their valuable input:
+This platform was created by  as a project for [School/Company/Personal]. We would like to thank the following resources for their valuable input:
 
-- [Resource 1]
-- [Resource 2]
-- [Resource 3]
+
 
 ## License
 
