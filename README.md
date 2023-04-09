@@ -27,7 +27,19 @@ The Lost Recipes Repository is a platform designed to store and share traditiona
 
 ## Implementation
 
-The Lost Recipes Repository is implemented using Python and the Flask web framework. The database is managed using MongoDB, and the user interface is designed using HTML/CSS. The platform also includes a recipe recommender system that suggests similar recipes based on user input.
+In addition to the web platform, we have also developed a machine learning model to predict the dish based on its preparation time and ingredients. This model is trained on a dataset of over 1000 Indian recipes and can be accessed through the platform's API.
+
+We have also developed a Swift app that allows users to access the Lost Recipes Repository on their mobile devices. The app is designed to be user-friendly and includes features such as searching for recipes, adding recipes to favorites, and sharing recipes with friends and family.
+
+To ensure fast and efficient development, we have used Vite and React for frontend development. This allows us to easily add new features and scale the platform as needed.
+
+Users can add their own recipes to the repository, which can be accessed by other users. This allows for the sharing of traditional and authentic recipes, preserving cultural heritage, and promoting healthy eating habits.
+
+In terms of scalability, the platform is designed to handle a large number of users and recipes. The use of MongoDB ensures that the platform can handle a large amount of data, and the implementation of caching ensures fast access to frequently accessed recipes. Additionally, the use of Vite and React allows for easy scaling of the frontend as needed.
+
+
+
+
 
 ## Scalability
 
