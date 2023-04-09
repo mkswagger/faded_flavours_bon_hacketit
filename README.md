@@ -1,4 +1,4 @@
-# Lost Recipes Repository
+# Faded Flavours
 
 ## Problem Statement
 
@@ -14,19 +14,16 @@ The Lost Recipes Repository is a platform designed to store and share traditiona
 - Easy recipe search
 - Recipe contribution
 - Categorization by country, ingredients, and type of cuisine
+- Prep time based recipe recommender
+- Recipe Recommender based on ingredients available
 
 ## Technologies Used
 
-- Python
-- Flask
-- HTML/CSS
-- MongoDB
+- App FrontEnd- Swift
+- Web FrontEnd- Vite,Tailwind CSS
+- Web Backend - MongoDB
+- Machine Learning part -python (Pandas, np,sklearn)
 
-## Installation
-
-1. Clone the repository
-2. Install the required packages using `pip install -r requirements.txt`
-3. Run the Flask app using `python app.py`
 
 ## Implementation
 
