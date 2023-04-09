@@ -35,9 +35,46 @@ struct FeedView: View {
                         .font(.system(size: 14,weight: .semibold))
                         .foregroundColor(.black)
                 }
+                .padding(.leading, 8)
+                .padding(.trailing, 12)
+                .padding(.vertical,6)
+                .background{
+                    Capsule()
+                        .fill(Color("colour1"))
+                }
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
+            Button{
+                
+            }label: {
+                Image(systemName: "cart")
+                    .font(.title2)
+                    .foregroundColor(.black)
+                    .overlay(alignment: .topTrailing){
+                        Circle()
+                            .fill(.white)
+                            .frame(width: 10, height: 10)
+                            .offset(x:2, y: -5)
+                        
+                    }
             }
         }
+        .padding(15)
+        
     }
+    var attributedTitle: AttributedString{
+        var attString = AttributedString(stringLiteral: "Good Food,")
+        if let range = attString.range(of: "Food,"){
+            attString[range].foregroundColor = .white
+        }
+        return attString
+    }
+    var attributedSubTitle: AttributedString{
+        var attString = AttributedString(stringLiteral: "Good Food,")
+        if let range = attString.range(of: "Food,"){
+            attString[range].foregroundColor = .white
+        }
+        return attString
 }
 
 struct FeedView_Previews: PreviewProvider {
