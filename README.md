@@ -60,20 +60,20 @@ This platform was created by  as a project for [School/Company/Personal].
 
 ## Contributors
 
-- [Shinjan Patra](https://github.com/johndoe) <br>
-  <img src="https://github.com/johndoe.png" width="100">
+- [Shinjan Patra](https://github.com/flaminshinjan) <br>
+  <img src="https://github.com/flaminshinjan.png" width="100">
 
-- [Trisha Thakur](https://github.com/janesmith) <br>
-  <img src="https://github.com/janesmith.png" width="100">
+- [Trisha Thakur](https://github.com/trisha-thakur) <br>
+  <img src="https://github.com/trisha-thakur.png" width="100">
 
-- [Isha](https://github.com/bobjohnson) <br>
-  <img src="https://github.com/bobjohnson.png" width="100">
+- [Isha](https://github.com/isha2125) <br>
+  <img src="https://github.com/isha2125.png" width="100">
   
-- [Mathangy K](https://github.com/janesmith) <br>
-  <img src="https://github.com/janesmith.png" width="100">
+- [Mathangy K](https://github.com/mkswagger) <br>
+  <img src="https://github.com/mkswagger.png" width="100">
   
-- [Aakash Rawat](https://github.com/janesmith) <br>
-  <img src="https://github.com/janesmith.png" width="100">
+- [Aakash Rawat](https://github.com/tripsterxx) <br>
+  <img src="https://github.com/tripsterxx.png" width="100">
 
 
   
