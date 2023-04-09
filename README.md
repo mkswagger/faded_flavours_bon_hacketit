@@ -40,7 +40,7 @@ In terms of scalability, the platform is designed to handle a large number of us
 
 # Future Scope and Possible Automations 🔧⚙
 
-In the future, we plan to expand the Lost Recipes Repository to include traditional recipes from other cultures and cuisines. This will involve adding support for new languages and ingredients, as well as creating new machine learning models to handle the additional data. We also plan to incorporate more advanced search and filtering features, such as the ability to filter recipes based on dietary restrictions or cooking techniques.
+In the future, we plan to expand the Faded Flavours to include traditional recipes from other cultures and cuisines. This will involve adding support for new languages and ingredients, as well as creating new machine learning models to handle the additional data. We also plan to incorporate more advanced search and filtering features, such as the ability to filter recipes based on dietary restrictions or cooking techniques.
 
 Another possible automation is to use natural language processing techniques to extract recipe information from text-based sources such as blogs and social media. This will allow us to automatically add new recipes to the platform without manual data entry.
 
