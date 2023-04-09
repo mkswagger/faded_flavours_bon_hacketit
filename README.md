@@ -59,22 +59,25 @@ Overall, the Faded Flavours has a wide range of possible automations and future 
 This platform was created by  as a project for [School/Company/Personal]. 
 
 ## Contributors
-
-- [Shinjan Patra](https://github.com/flaminshinjan) <br>
-  <img src="https://github.com/flaminshinjan.png" width="100">
-
-- [Trisha Thakur](https://github.com/trisha-thakur) <br>
-  <img src="https://github.com/trisha-thakur.png" width="100">
-
-- [Isha](https://github.com/isha2125) <br>
-  <img src="https://github.com/isha2125.png" width="100">
-  
-- [Mathangy K](https://github.com/mkswagger) <br>
-  <img src="https://github.com/mkswagger.png" width="100">
-  
-- [Aakash Rawat](https://github.com/tripsterxx) <br>
-  <img src="https://github.com/tripsterxx.png" width="100">
-
+<div align="center">
+  <a href="https://github.com/flaminshinjan">
+    <img src="https://github.com/flaminshinjan.png" width="100">
+  </a>
+  <a href="https://github.com/trisha-thakur">
+    <img src="https://github.com/trisha-thakur.png" width="100">
+  </a>
+  <a href="https://github.com/isha2125">
+    <img src="https://github.com/isha2125.png" width="100">
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/mkswagger">
+    <img src="https://github.com/mkswagger.png" width="100">
+  </a>
+  <a href="https://github.com/tripsterxx">
+    <img src="https://github.com/tripsterxx.png" width="100">
+  </a>
+</div> 
 
   
 
