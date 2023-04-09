@@ -56,7 +56,28 @@ Overall, the Faded Flavours has a wide range of possible automations and future 
 
 ## Served piping hot by Team Bhelpuri Bosses for Bon Hacketit - API Week MLH 🥘
 
-This platform was created by  as a project for [School/Company/Personal]. We would like to thank the following resources for their valuable input:
+This platform was created by  as a project for [School/Company/Personal]. 
+
+## Contributors
+
+- [Shinjan Patra](https://github.com/johndoe) <br>
+  <img src="https://github.com/johndoe.png" width="100">
+
+- [Trisha Thakur](https://github.com/janesmith) <br>
+  <img src="https://github.com/janesmith.png" width="100">
+
+- [Isha](https://github.com/bobjohnson) <br>
+  <img src="https://github.com/bobjohnson.png" width="100">
+  
+- [Mathangy K](https://github.com/janesmith) <br>
+  <img src="https://github.com/janesmith.png" width="100">
+  
+- [Aakash Rawat](https://github.com/janesmith) <br>
+  <img src="https://github.com/janesmith.png" width="100">
+
+
+  
+
 
 
 
