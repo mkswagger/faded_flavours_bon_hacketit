@@ -59,27 +59,46 @@ Overall, the Faded Flavours has a wide range of possible automations and future 
 This platform was created by  as a project for [School/Company/Personal]. 
 
 ## Contributors
-<div align="center">
-  <a href="https://github.com/flaminshinjan">
-    <img src="https://github.com/flaminshinjan.png" width="100">
-  </a>
-  <a href="https://github.com/trisha-thakur">
-    <img src="https://github.com/trisha-thakur.png" width="100">
-  </a>
-  <a href="https://github.com/isha2125">
-    <img src="https://github.com/isha2125.png" width="100">
-  </a>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;">
+  <div style="text-align:center;margin:10px;">
+    <a href="https://github.com/flaminshinjan">
+      <img src="https://github.com/flaminshinjan.png" width="100" alt="Shinjan Patra">
+      <p>Shinjan Patra</p>
+      <p>App Developer</p>
+    </a>
+  </div>
+  <div style="text-align:center;margin:10px;">
+    <a href="https://github.com/trisha-thakur">
+      <img src="https://github.com/trisha-thakur.png" width="100" alt="Trisha Thakur">
+      <p>Trisha Thakur</p>
+      <p>Frontend Developer</p>
+    </a>
+  </div>
+  <div style="text-align:center;margin:10px;">
+    <a href="https://github.com/isha2125">
+      <img src="https://github.com/isha2125.png" width="100" alt="Isha">
+      <p>Isha</p>
+      <p>App Developer</p>
+    </a>
+  </div>
+  <div style="text-align:center;margin:10px;">
+    <a href="https://github.com/mkswagger">
+      <img src="https://github.com/mkswagger.png" width="100" alt="Mathangy K">
+      <p>Mathangy K</p>
+      <p>ML Developer</p>
+    </a>
+  </div>
+  <div style="text-align:center;margin:10px;">
+    <a href="https://github.com/tripsterxx">
+      <img src="https://github.com/tripsterxx.png" width="100" alt="Aakash Rawat">
+      <p>Aakash Rawat</p>
+      <p>Backend Developer</p>
+    </a>
+  </div>
 </div>
-<div align="center">
-  <a href="https://github.com/mkswagger">
-    <img src="https://github.com/mkswagger.png" width="100">
-  </a>
-  <a href="https://github.com/tripsterxx">
-    <img src="https://github.com/tripsterxx.png" width="100">
-  </a>
-</div> 
 
-  
+
+
 
 
 
