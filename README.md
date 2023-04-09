@@ -22,7 +22,7 @@ The Lost Recipes Repository is a platform designed to store and share traditiona
 - App FrontEnd- Swift
 - Web FrontEnd- Vite,Tailwind CSS
 - Web Backend - MongoDB
-- Machine Learning part -python (Pandas, np,sklearn)
+- Machine Learning - Python (Pandas, Numpy ,sklearn)
 
 
 ## Implementation  📃 
