@@ -59,19 +59,15 @@ Overall, the Faded Flavours has a wide range of possible automations and future 
 This platform was created by  as a project for [School/Company/Personal]. 
 
 ## Contributors
+Shinjan Patra            <img src="https://github.com/flaminshinjan.png" width="100"><br>Role: App Developer
 
+Trisha Thakur            <img src="https://github.com/trisha-thakur.png" width="100"><br>Role: Frontend Developer
 
-- [Shinjan Patra](https://github.com/flaminshinjan) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/flaminshinjan.png" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Role: App Developer
+Isha            <img src="https://github.com/isha2125.png" width="100"><br>Role: App Developer
 
-- [Trisha Thakur](https://github.com/trisha-thakur) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/trisha-thakur.png" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Role: Frontend Developer
+Mathangy K            <img src="https://github.com/mkswagger.png" width="100"><br>Role: ML Developer
 
-- [Isha](https://github.com/isha2125) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/isha2125.png" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Role: App Developer
-
-- [Mathangy K](https://github.com/mkswagger) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/mkswagger.png" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Role: ML Developer
-
-- [Aakash Rawat](https://github.com/tripsterxx) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/tripsterxx.png" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Role: Backend Developer
-
-
+Aakash Rawat            <img src="https://github.com/tripsterxx.png" width="100"><br>Role: Backend Developer
 
 ## License
 
