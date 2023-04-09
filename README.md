@@ -59,15 +59,16 @@ Overall, the Faded Flavours has a wide range of possible automations and future 
 This platform was created by  as a project for [School/Company/Personal]. 
 
 ## Contributors
-Shinjan Patra  <br>Role: App Developer
 
-Trisha Thakur  <br>Role: Frontend Developer
+[Shinjan Patra](https://github.com/flaminshinjan) <br>Role: App Developer
 
-Isha           <br>Role: App Developer
+[Trisha Thakur](https://github.com/trisha-thakur) <br>Role: Frontend Developer
 
-Mathangy K     <br>Role: ML Developer
+[Isha](https://github.com/isha2125)    <br>Role: App Developer
 
-Aakash Rawat   <br>Role: Backend Developer
+[Mathangy K](https://github.com/mkswagger)      <br>Role: ML Developer
+
+[Aakash Rawat](https://github.com/tripsterxx)    <br>Role: Backend Developer
 
 ## License
 
